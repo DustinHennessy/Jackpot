@@ -113,7 +113,8 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         
         let winningTicket = getRandomTicket()
         
-        if 
+        if
+        //starting to determine winners
         
         
         
